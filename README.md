@@ -1,7 +1,8 @@
-## Program Name :- Task Managiing Web Application 
-## Status :- Completed
-## Developed with :- Angular js, Nodejs, json server
-## Goal :- To learn fundementals of and concepts about Angular js
+#### Program Name :- Task Managiing Web Application 
+#### Status :- Completed
+#### Developed with :- Angular js, Nodejs, json server
+#### Features :- CRUD operations, Routing, REST api
+#### Goal :- To learn fundementals and concepts about Angular 
 
 
 

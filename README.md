@@ -1,3 +1,12 @@
+## Program Name :- Task Managiing Web Application 
+## Status :- Completed
+## Developed with :- Angular js, Nodejs, json server
+## Goal :- To learn fundementals of and concepts about Angular js
+
+
+
+
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
